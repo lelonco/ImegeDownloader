@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImegeDownloader.iml" filepath="$PROJECT_DIR$/ImegeDownloader.iml" />
+      <module fileurl="file://$USER_HOME$/Мои документы/jsoup-master/jsoup.iml" filepath="$USER_HOME$/Мои документы/jsoup-master/jsoup.iml" />
+    </modules>
+  </component>
+</project>
